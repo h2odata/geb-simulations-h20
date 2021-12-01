@@ -10,7 +10,7 @@ import numpy as np
 #                            compression='gzip',
 #                            index_col=0)
 
-ocean_price_df = pd.read_csv('models/system_model_v3/data/eth_values_mc.csv')
+ocean_price_df = pd.read_csv('models/system_model_v3/data/ocean_values_mc.csv')
 eth_price_df = ocean_price_df*300
 
 # Set the initial ETH price state

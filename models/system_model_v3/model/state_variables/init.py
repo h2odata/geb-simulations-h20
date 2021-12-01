@@ -23,7 +23,7 @@ state_variables = {
     # Time states
     'timedelta': 0, # seconds
     'cumulative_time': 0, # seconds
-    'timestamp': dt.datetime.strptime('2018-01-01', '%Y-%m-%d'), # type: datetime; start time
+    'timestamp': dt.datetime.strptime('2021-09-01', '%Y-%m-%d'), # type: datetime; start time
     'blockheight': 0, # block offset (init 0 simplicity)
     
     # Exogenous states

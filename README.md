@@ -20,12 +20,17 @@ The [original repo](https://github.com/reflexer-labs/geb-simulations) created a 
 - Lower the initial balances for RAI/ETH Uniswap v2 pool
 - Lower capital allocation for each agent
 
-## New agents
 
 
 # Notebooks
-## Stochastic Data Generation
+
 - Ocean Exogenous Process
+
+- Monte Carlo runs
+
+- Price shocks
+
+- Liquidity demand shock
 
 ## PID parameters
 - PID failure modes
